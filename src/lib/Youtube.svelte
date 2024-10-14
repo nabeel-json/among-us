@@ -61,6 +61,6 @@
     }
 
     #frame-container {
-        background: linear-gradient(to bottom, black 55%, #181818 45%);
+        background: linear-gradient(to bottom, black 55%, white 45%);
     }
 </style>

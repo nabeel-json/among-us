@@ -7,7 +7,7 @@
     
         <h1 class="text-5xl font-bold">Among Us by Innersloth</h1>
     
-        <p class="text-slate-300 leading-loose">Crewmates work together and collaborate to complete tasks before one or more Impostors can kill everyone aboard through abilities.</p>
+        <p class="text-slate-300 leading-loose">Crewmates work together and collaborate to complete tasks before one or more Impostors can kill everyone aboard through abilities</p>
     
         <a class="bg-red-600 py-3 px-6 focus:scale-95 hover:bg-red-700 transition-all" href="https://www.youtube.com/" target="_blank">Download</a>
     
